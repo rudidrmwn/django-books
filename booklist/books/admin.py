@@ -9,6 +9,6 @@ class BookListAdmin(admin.ModelAdmin):
     list_filter = ('title','author','date_published','type_book')
     search_field = ('title','author')
     date_hierarchy ='date_published'
-    ordering=['status','publish']
+    ordering=['title','author','date_published','type_book']
 
     
