@@ -5,7 +5,7 @@ from django.contrib.auth.models import User
 class Book(models.Model):
     title = models.CharField(max_length=250)
     author = models.CharField(max_length=250)
-    date_published = models.DateField(auto_now_add=True)
+    date_published = models.DateField(auto_now_add=False)
     number_pages = models.IntegerField()
     type_book = models.CharField(max_length=250)
 
