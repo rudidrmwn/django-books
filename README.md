@@ -10,3 +10,4 @@ Installation Guide
 <p><img src="https://preview.ibb.co/mGRfHw/dashboard.png" alt="dashboard" border="0"></p>
 <p><img src="https://preview.ibb.co/kHP3LG/booklist.png" alt="booklist" border="0"></p>
 <p><img src="https://preview.ibb.co/nGrTnw/create.png" alt="create" border="0"></p>
+<p><img src="https://preview.ibb.co/fY1dnw/update.png" alt="update" border="0"></p>
