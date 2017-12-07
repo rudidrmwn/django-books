@@ -7,3 +7,4 @@ Installation Guide
 4. so you can showing in the browser using http://127.0.0.1:8000/admin or http://localhost:8000/admin and you can login using username and password(you've created before).
 <p align="left"><img src="https://image.ibb.co/mq1xxw/runserver.png" alt="runserver" border="0"></p>
 <p><img src="https://image.ibb.co/jRh9AG/login.png" alt="login" border="0"></p>
+<p><img src="https://preview.ibb.co/mGRfHw/dashboard.png" alt="dashboard" border="0"></p>
